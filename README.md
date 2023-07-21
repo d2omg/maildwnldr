@@ -2,7 +2,7 @@
 
 This is a simple email downloader application built using Python and the Tkinter library for the GUI. The program allows users to connect to an IMAP mail server, select specific folders, and download the emails in EML format to the local machine.
 
-### Features
+## Features
 
 - Connect to an IMAP mail server and authenticate with username and password.
 - Browse and select specific folders from the mail server.
@@ -10,13 +10,13 @@ This is a simple email downloader application built using Python and the Tkinter
 - Progress bar to track the download status.
 - Option to save the mail server configuration for future use.
 
-### Requirements
+## Requirements
 
 - Python 3.x
 - Tkinter
 - imapclient
 
-### Installation
+## Installation
 
 1. Clone the repository or download the code as a zip file and extract it to your local machine.
 2. Make sure you have Python 3.x installed on your system.
@@ -43,7 +43,7 @@ This is a simple email downloader application built using Python and the Tkinter
 
 The program allows you to save the mail server configuration for future use. When you run the program again, it will automatically load the saved configuration from the `config.json` file, if available.
 
-### Disclaimer
+## Disclaimer
 
 Please use this application responsibly and only for authorized access to your own mail server or with the explicit permission of the mail server owner. The developer is not responsible for any misuse or unauthorized access to mail servers using this application.
 
