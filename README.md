@@ -46,3 +46,7 @@ The program allows you to save the mail server configuration for future use. Whe
 ### Disclaimer
 
 Please use this application responsibly and only for authorized access to your own mail server or with the explicit permission of the mail server owner. The developer is not responsible for any misuse or unauthorized access to mail servers using this application.
+
+## Contribution
+
+Contributions to the project are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
