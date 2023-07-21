@@ -24,12 +24,12 @@ This is a simple email downloader application built using Python and the Tkinter
 3. Install the required dependencies by running the following command:
 
    ```
-   pip install tk imapclient
+   pip install -r requirements.txt
    ```
 
 ### Usage
 
-1. Run the program by executing the `email_downloader.py` script.
+1. Run the program by executing the `main.py` script.
 2. The main window will appear, prompting you to enter the mail server address, username, and password.
 3. Click on the "Connect" button to establish a connection to the mail server.
 4. If the connection is successful, a new window will open to display a list of available folders on the server.
@@ -43,14 +43,6 @@ This is a simple email downloader application built using Python and the Tkinter
 ### Configuration
 
 The program allows you to save the mail server configuration for future use. When you run the program again, it will automatically load the saved configuration from the `config.json` file, if available.
-
-### Credits
-
-- This application is developed by D2 Inc.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### Disclaimer
 
