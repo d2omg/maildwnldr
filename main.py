@@ -226,7 +226,7 @@ menu_bar = tk.Menu(window)
 
 
 def about_program():
-    messagebox.showinfo("About", f"Author: D2 Inc.\nVersion: {VERSION}")
+    messagebox.showinfo("About", f"Author: D12 Inc.\nVersion: {VERSION}")
 
 
 help_menu = tk.Menu(menu_bar, tearoff=0)
