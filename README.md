@@ -15,7 +15,6 @@ This is a simple email downloader application built using Python and the Tkinter
 - Python 3.x
 - Tkinter
 - imapclient
-- requests
 
 ### Installation
 
